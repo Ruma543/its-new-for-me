@@ -55,9 +55,36 @@ main{
   padding: 50px;
 
 }
+.column-img{
+  width: 527.929px;
+height: 527.929px;
+  border-radius: 50%;
+background: rgba(241, 91, 34, 0.20);  d
+  border-radius: 527.929px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+/* div{
+width: 527.929px;
+height: 527.929px;
+  border-radius: 50%;
+background: rgba(241, 91, 34, 0.20);  d
+  border-radius: 527.929px;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+img{
+ margin-top: -190px;
+  margin-left: 20px;
+ /* margin-bottom: 0; */
+ /* border-radius: 450.929px;
+} */ 
 .person-img{
-  width: 450px;
-  fill: #D9D9D9;
+  margin-top: -190px;
+  margin-left: 20px;
+  border-radius: 191.0px;
 }
 .column-content{
   max-width: 500px;
